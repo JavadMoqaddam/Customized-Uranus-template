@@ -95,16 +95,6 @@
 
 ---
 
-## حمایت و سفارشات
-برای پشتیبانی یا سفارش قالب اختصاصی با من توی تلگرام در ارتباط باشید [Telegram](https://t.me/Mqtin).
-
-<a href="https://nowpayments.io/donation?api_key=Z50AKDD-DHSMN86-P0DQ22X-1SQAFCA" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
-
-
----
-
 # Ourenus
 
 ## Desktop View
